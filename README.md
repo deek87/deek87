@@ -20,6 +20,7 @@ class About extends Me
 
   public function sayHello(): void
   {
+    echo "Thanks for dropping by and visiting my profile.";
   }
 
 }
