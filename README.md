@@ -15,7 +15,7 @@ class About extends Me
 
   public function getRole(): string
   {
-    return 'Website Engineer'
+    return 'Software Engineer'
   }
 
   public function sayHello(): void
@@ -41,6 +41,7 @@ class About extends Me
 ![CSS3](https://img.shields.io/badge/%E2%80%8B-CSS3-informational?logo=CSS3&style=flat-square&logoColor=white&color=gray&labelColor=1572B6)
 ![Sass](https://img.shields.io/badge/%E2%80%8B-Sass-informational?logo=Sass&style=flat-square&logoColor=white&color=gray&labelColor=CC6699)
 ![PhP](https://img.shields.io/badge/%E2%80%8B-php-informational?logo=php&style=flat-square&logoColor=white&color=gray&labelColor=777BB4)
+![GO](https://img.shields.io/badge/%E2%80%8B-GO-informational?logo=go&style=flat-square&logoColor=white&color=gray&labelColor=00ADD8)
 ![Python](https://img.shields.io/badge/%E2%80%8B-python-informational?logo=python&style=flat-square&logoColor=white&color=gray&labelColor=3776AB)
 ![csharp](https://img.shields.io/badge/%E2%80%8B-csharp-informational?logo=csharp&style=flat-square&logoColor=white&color=gray&labelColor=239120)
 
@@ -49,7 +50,8 @@ class About extends Me
 ![macOS](https://img.shields.io/badge/%E2%80%8B-mac%20-informational?logo=apple&style=flat-square&logoColor=white&color=gray&labelColor=98989d)
 ![Linux](https://img.shields.io/badge/%E2%80%8B-linux-informational?logo=linux&style=flat-square&logoColor=black&color=gray&labelColor=FCC624)
 ![Windows](https://img.shields.io/badge/%E2%80%8B-windows-informational?logo=windows&style=flat-square&logoColor=white&color=gray&labelColor=0078D6)
-![PhpStorm](https://img.shields.io/badge/%E2%80%8B-php%20storm-informational?logo=PhpStorm&style=flat-square&logoColor=white&color=gray&labelColor=777BB4)
+![PhpStorm](https://img.shields.io/badge/%E2%80%8B-PhpStorm-informational?logo=PhpStorm&style=flat-square&logoColor=white&color=gray&labelColor=777BB4)
+![GoLand](https://img.shields.io/badge/%E2%80%8B-GoLand-informational?logo=GoLand&style=flat-square&logoColor=white&color=gray&labelColor=000000)
 ![VSCode](https://img.shields.io/badge/%E2%80%8B-VS%20code-informational?logo=VisualStudioCode&style=flat-square&logoColor=white&color=gray&labelColor=007ACC)
 ![Vite](https://img.shields.io/badge/%E2%80%8B-vite-informational?logo=vite&style=flat-square&logoColor=white&color=gray&labelColor=646CFF)
 ![cypress](https://img.shields.io/badge/%E2%80%8B-cypress-informational?logo=cypress&style=flat-square&logoColor=white&color=gray&labelColor=17202C)
